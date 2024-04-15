@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/ainomodatalab/.github/blob/5b19a4391950b388f87d830e7cb28233f0c32a9b/profile/img/banner.png" alt="banner"/>
+<img src="https://github.com/ainomodatalab/.github/blob/112c412ecad1feabbb1f595f2c0b53a1a2ab84e4/profile/img/banner.png" alt="banner"/>
 
 </br>
 </br>
