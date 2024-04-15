@@ -13,7 +13,7 @@
 [![Youtube](https://img.shields.io/badge/subscribe-Ainomo-ae73fa?style=for-the-badge&logo=youtube)](https://youtube.com/@AinomoDataLab)
 [![Discord](https://img.shields.io/badge/join-Ainomo-ae73fa?style=for-the-badge&logo=medium)](https://medium.com/@ainomo)
 </br>
-
+</div>
 ---
 
 ### 📝 Docs
