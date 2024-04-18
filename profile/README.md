@@ -40,6 +40,5 @@
 |  Hacken Audit                          | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Least Authority Audit                 | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Mixbytes Audit                        | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Openzeppelin Audit                    | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Quantstamp Audit                      | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  WhitePaper                            | [ainomodatalab/docs](https://github.com/ainomodatalab) |
