@@ -29,7 +29,6 @@
 |  DNV Certificate ISO 9001              | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  DNV Certificate ISO 27001             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Certification Europe ISO 27001        | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  SGS Certificate ISO 27001             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Cyber Essentials Certificate 2024     | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  PCI DSS Certificate                   | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  SOC2Type2 Certificate                 | [ainomodatalab/docs](https://github.com/ainomodatalab) |
