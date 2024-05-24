@@ -18,14 +18,14 @@
 
 ### 📝 Docs
 
-| Name                                   | Link                                                   |
-|----------------------------------------|--------------------------------------------------------|
+| Name                                                        | Link                                                   |
+|-------------------------------------------------------------|--------------------------------------------------------|
 |  United Kingdom License                                     | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Australian License                                         | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Hong Kong License                                          | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Insurance Certificate Zurich                               | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  DELOITTE Report on the Audit of the Financial Statements   | [ainomodatalab/docs](https://github.com/ainomodatalab) |                                                 | 
-|  PRI Registrar Certificate ISO 9001    | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  PRI Registrar Certificate ISO 9001                         | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  DNV Certificate ISO 9001              | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  DNV Certificate ISO 27001             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Certification Europe ISO 27001        | [ainomodatalab/docs](https://github.com/ainomodatalab) |
