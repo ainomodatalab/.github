@@ -8,10 +8,10 @@
 <div align="center">
   
 [![Twitter](https://img.shields.io/badge/follow-%40Ainomo-ffffff?logo=twitter&style=for-the-badge)](https://twitter.com/AinomoDataLab)
-[![Telegram](https://img.shields.io/badge/join-Ainomo-ae73fa?style=for-the-badge&logo=telegram)](https://t.me/ainomo_official)
-[![Reddit](https://img.shields.io/badge/follow-Ainomo-ae73fa?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/AINOMO/)
-[![Youtube](https://img.shields.io/badge/subscribe-Ainomo-ae73fa?style=for-the-badge&logo=youtube)](https://youtube.com/@AinomoDataLab)
-[![Discord](https://img.shields.io/badge/join-Ainomo-ae73fa?style=for-the-badge&logo=medium)](https://medium.com/@ainomo)
+[![Telegram](https://img.shields.io/badge/join-Ainomo-ffffff?style=for-the-badge&logo=telegram)](https://t.me/ainomo_official)
+[![Reddit](https://img.shields.io/badge/follow-Ainomo-ffffff?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/AINOMO/)
+[![Youtube](https://img.shields.io/badge/subscribe-Ainomo-ffffff?style=for-the-badge&logo=youtube)](https://youtube.com/@AinomoDataLab)
+[![Discord](https://img.shields.io/badge/join-Ainomo-ffffff?style=for-the-badge&logo=medium)](https://medium.com/@ainomo)
 </br>
 </div>
 ---
