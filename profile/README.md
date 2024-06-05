@@ -41,3 +41,10 @@
 |  Mixbytes Audit                                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  Quantstamp Audit                                           | [ainomodatalab/docs](https://github.com/ainomodatalab) |
 |  WhitePaper                                                 | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  Terms of Use                                               | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  Ptivacy Policy                                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  Cookies Policy                                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  Data Protection                                            | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  Data Processing Addendum                                   | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  DMCA Policy                                                | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  Ainomo Accessibility Statement                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
