@@ -1,5 +1,5 @@
 <div align="center">
-![ainomodatalab-cover](profile/img/Logo animation.gif)
+  <img src="https://github.com/ainomodatalab/.github/blob/af310af201d81ac9dcb336aeb587f70847ecdde2/profile/img/Logo%20animation.gif" alt="banner"/>
 <img src="https://github.com/ainomodatalab/.github/blob/112c412ecad1feabbb1f595f2c0b53a1a2ab84e4/profile/img/banner.png" alt="banner"/>
 
 </br>
