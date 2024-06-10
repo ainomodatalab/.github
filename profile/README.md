@@ -1,4 +1,6 @@
 <div align="center">
+  ![ainomo-cover](https://github.com/ainomodatalab/.github/blob/008c88942bc9409e27a5dedcc519fd6eb7e1e15e/profile/img/Logo%20animation.gif)
+  
 <img src="https://github.com/ainomodatalab/.github/blob/112c412ecad1feabbb1f595f2c0b53a1a2ab84e4/profile/img/banner.png" alt="banner"/>
 
 </br>
