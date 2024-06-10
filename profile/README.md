@@ -22,16 +22,16 @@
         <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
     </a>
     <a href="https://medium.com/@ainomo">
-        <img src="https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=white" />
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <a href="https://t.me/ainomo_official">
-        <img src="https://img.shields.io/badge/Telegram-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
     <a href="https://youtube.com/@AinomoDataLab">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
         <a href="https://www.reddit.com/user/AINOMO/">
-        <img src="https://img.shields.io/badge/Reddit-FF0000?style=for-the-badge&logo=reddit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
     </a>
   </p>
 </div>
