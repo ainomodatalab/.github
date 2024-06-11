@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/ainomodatalab/.github/blob/62953e24a948511d9a48ee1de9d21ecfcaa849c5/profile/img/Logo%20animation%202.gif" alt="banner"/>
 <img src="https://github.com/ainomodatalab/.github/blob/112c412ecad1feabbb1f595f2c0b53a1a2ab84e4/profile/img/banner.png" alt="banner"/>
-<img src="https://github.com/ainomodatalab/.github/blob/b77f225b8381d9dcaf091f86c22ae9a6aa34ab12/profile/img/banner2.png" alt="banner"/>
+<img src="https://github.com/ainomodatalab/.github/blob/603b211ae0c42d7161643056c744f0cc5089b119/profile/img/banner2.png" alt="banner"/>
 </br>
 </br>
 </div>
