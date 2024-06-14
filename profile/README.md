@@ -8,7 +8,7 @@
 
 <div>
   <p align="center">
-    <img src="https://img.shields.io/badge/A--Frame-EF2D5E?logo=aframe&logoColor=fff&style=flat" alt="A-Frame Badge">
+    <img src="https://img.shields.io/badge/A--Frame-EF2D5E?logo=aframe&logoColor=fff&style=flat-square" alt="A-Frame Badge">
   </p>
   <p align="center">
     <a
