@@ -10,6 +10,11 @@
   <p align="center">
     <img src="https://img.shields.io/badge/AI%20ARBITRAGE-EF2D5E?logo=aframe&logoColor=fff&style=flat-square" alt="AINOMO Badge">
     <img src="https://img.shields.io/badge/AI%20TRADING-8C4FFF?logo=amazonredshift&logoColor=fff&style=flat-square" alt="AINOMO Badge">
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=flat-square" alt="Bitcoin Badge">
+    <img src="https://img.shields.io/badge/Bookmeter-64BC4B?logo=bookmeter&logoColor=fff&style=for-the-badge" alt="Bookmeter Badge">
+    <img src="https://img.shields.io/badge/Buffer-231F20?logo=buffer&logoColor=fff&style=for-the-badge" alt="Buffer Badge">
+    <img src="https://img.shields.io/badge/ByteDance-3C8CFF?logo=bytedance&logoColor=fff&style=for-the-badge" alt="ByteDance Badge">
+    <img src="https://img.shields.io/badge/Zaim-50A135?logo=zaim&logoColor=fff&style=for-the-badge" alt="Zaim Badge">
   </p>
   <p align="center">
     <a
