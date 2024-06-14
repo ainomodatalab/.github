@@ -24,7 +24,7 @@
     </a>
   </p>
 </div>
-<div align="center" style="background-image: url('https://github.com/ainomodatalab/.github/blob/4a04f36b178880125ec60e921b3782700300760c/profile/img/banner3.png');">
+<div align="center" background="https://github.com/ainomodatalab/.github/blob/4a04f36b178880125ec60e921b3782700300760c/profile/img/banner3.png')">
 387nr374n3948sy3948ry3sm48ry3s9m4ry3s4m9ry349r8ym394ry3498sry39m4ry3sm48rym3sm948rys39m84rym394rmy398
 </div>
 <div>
