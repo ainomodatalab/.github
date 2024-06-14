@@ -9,7 +9,8 @@
 <div>
   <p align="center">
     <img src="https://img.shields.io/badge/AI%20ARBITRAGE-8C4FFF?logo=codeforces&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
-    <img src="https://img.shields.io/badge/AI%20POOL-EF2D5E?logo=buffer&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
+    <img src="https://img.shields.io/badge/AI%20POOL-F58025?logo=stackoverflow&logoColor=fff&style=for-the-badge" alt="Stack Overflow Badge">
+    <img src="https://img.shields.io/badge/AI%20DERIVATIVES-EF2D5E?logo=buffer&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
     <img src="https://img.shields.io/badge/AI%20TRADING-8C4FFF?logo=bytedance&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
   </p>
   <p align="center">
