@@ -8,7 +8,7 @@
 
 <div>
   <p align="center">
-    <img src="https://img.shields.io/badge/AI-ARBITRAGE--EF2D5E?logo=aframe&logoColor=fff&style=flat-square" alt="AI-ARBITRAGE Badge">
+    <img src="https://img.shields.io/badge/AIARBITRAGE--EF2D5E?logo=aframe&logoColor=fff&style=flat-square" alt="AI-ARBITRAGE Badge">
   </p>
   <p align="center">
     <a
