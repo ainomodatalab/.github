@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <p align="left">
+  <p align="left" style="margin-bottom: 0px;">
     <a
       href="https://ainomo.com">
       <img src="https://img.shields.io/badge/AI%20ARBITRAGE-8C4FFF?logo=codeforces&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
