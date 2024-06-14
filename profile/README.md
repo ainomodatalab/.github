@@ -8,6 +8,9 @@
 
 <div>
   <p align="center">
+    <img src="https://img.shields.io/badge/1001Tracklists-40AEF0?logo=1001tracklists&logoColor=fff&style=flat" alt="1001Tracklists Badge">
+  </p>
+  <p align="center">
     <a
     href="https://twitter.com/AinomoDataLab">
         <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
