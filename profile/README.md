@@ -8,8 +8,7 @@
 
 <div>
   <p align="center">
-    <img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" alt="Bitcoin Badge">
-    <img src="https://img.shields.io/badge/AI%20TRADING-8C4FFF?logo=codeforces&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
+    <img src="https://img.shields.io/badge/AI%20ARBITRAGE-8C4FFF?logo=codeforces&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
     <img src="https://img.shields.io/badge/AI%20POOL-EF2D5E?logo=buffer&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
     <img src="https://img.shields.io/badge/AI%20TRADING-8C4FFF?logo=bytedance&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
   </p>
