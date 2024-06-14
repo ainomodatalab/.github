@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://github.com/ainomodatalab/.github/blob/62953e24a948511d9a48ee1de9d21ecfcaa849c5/profile/img/Logo%20animation%202.gif" alt="banner"/>
-<!--<img src="https://github.com/ainomodatalab/.github/blob/112c412ecad1feabbb1f595f2c0b53a1a2ab84e4/profile/img/banner.png" alt="banner"/>
-<img src="https://github.com/ainomodatalab/.github/blob/603b211ae0c42d7161643056c744f0cc5089b119/profile/img/banner2.png" alt="banner"/>-->
 </br>
 </br>
 </div>
@@ -27,7 +25,7 @@
   </p>
 </div>
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF02F7&background=000000&random=false&width=1000&lines=The+Ainomo+platform+provides+innovative+solutions+for+successful+cryptocurrency+;management.+The+platform+is+based+on+guidelines+built+on+the+principles+of+;artificial+intelligence%2C+providing+unmatched+accuracy+and+reliability+in+decision+;making." alt="Typing SVG" /></a>
+  <img src="https://github.com/ainomodatalab/.github/blob/4a04f36b178880125ec60e921b3782700300760c/profile/img/banner3.png"/>
 </div>
 <div>
   <p align="right">
