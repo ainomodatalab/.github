@@ -29,6 +29,9 @@
 <div align="center">
   <img src="https://github.com/ainomodatalab/.github/blob/4a04f36b178880125ec60e921b3782700300760c/profile/img/banner3.png" alt="banner"/>
 </div>
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BF02F7&background=000000&random=false&width=600&lines=The+Ainomo+platform+provides+innovative+solutions+;for+successful+cryptocurrency+management.;The+platform+is+based+on+guidelines+built+on+the+;principles+of+artificial+intelligence%2C+providing+;unmatched+accuracy+and+reliability+;in+decision+making.)](https://git.io/typing-svg)
+</div>
 <div>
   <p align="right">
     <a
