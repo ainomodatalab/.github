@@ -27,7 +27,7 @@
   </p>
 </div>
 <div align="center">
-  <img src="https://github.com/ainomodatalab/.github/blob/8a46e0809f0a49f97d0948f05ff3d4d10b1a72eb/profile/img/banner3.png" alt="banner"/>
+  
 </div>
 <div>
   <p align="center">
