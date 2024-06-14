@@ -7,7 +7,7 @@
 </div>
 
 <div>
-  <p align="center">
+  <p align="left">
     <a
       href="https://ainomo.com">
       <img src="https://img.shields.io/badge/AI%20ARBITRAGE-8C4FFF?logo=codeforces&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
@@ -30,7 +30,7 @@
   
 </div>
 <div>
-  <p align="center">
+  <p align="right">
     <a
     href="https://twitter.com/AinomoDataLab">
         <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
