@@ -33,30 +33,31 @@
 | Name                                                        | Link                                                   |
 |-------------------------------------------------------------|--------------------------------------------------------|
 |  United Kingdom License                                     | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/The%20United%20Kingdom%20Registartion.pdf) |
-|  Australian License                                         | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Hong Kong License                                          | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Insurance Certificate Zurich                               | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  DELOITTE Report on the Audit of the Financial Statements   | [ainomodatalab/docs](https://github.com/ainomodatalab) |                                                 | 
-|  PRI Registrar Certificate ISO 9001                         | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  DNV Certificate ISO 9001                                   | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  DNV Certificate ISO 27001                                  | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Certification Europe ISO 27001                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Cyber Essentials Certificate 2024                          | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  PCI DSS Certificate                                        | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  SOC2Type2 Certificate                                      | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  GDPR Certificate                                           | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Certik Audit                                               | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Coinfabrick Audit                                          | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Fairyproof  Audit                                          | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Hacken Audit                                               | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Least Authority Audit                                      | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Mixbytes Audit                                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Quantstamp Audit                                           | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  WhitePaper                                                 | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Terms of Use                                               | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Ptivacy Policy                                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Cookies Policy                                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Data Protection                                            | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Data Processing Addendum                                   | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  DMCA Policy                                                | [ainomodatalab/docs](https://github.com/ainomodatalab) |
-|  Ainomo Accessibility Statement                             | [ainomodatalab/docs](https://github.com/ainomodatalab) |
+|  Australian License                                         | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Certificate%20of%20Registration%20of%20a%20company.PDF) |
+|  Hong Kong License                                          | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Certificate%20of%20incorporation%20Hong%20Kong.pdf) |
+|  Insurance Certificate Zurich                               | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/ZFS%20Insurance%20certificate.pdf) |
+|  DELOITTE Report on the Audit of the Financial Statements   | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/DELOITTE%20Report%20on%20the%20Audit%20of%20the%20Financial%20Statements%20Ainomo.pdf) |                                                 | 
+|  PRI Registrar Certificate ISO 9001                         | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/PRI%20Registrar%20Certificate%20ISO%209001%20AINOMO.pdf) |
+|  DNV Certificate ISO 9001                                   | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/DNV%20Certificate%20ISO%209001.pdf) |
+|  DNV Certificate ISO 27001                                  | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/DNV%20Certificate%20ISO%3AIEC%2027001%20Ainomo.pdf) |
+|  Certification Europe ISO 27001                             | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Certification%20Europe%20ISO%2027001%20Ainomo.pdf) |
+|  Cyber Essentials Certificate 2024                          | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Cyber%20Essentials%20Certificate%202024%20Ainomo.pdf) |
+|  PCI DSS Certificate                                        | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/PCI%20DSS%20Ainomo.pdf) |
+|  SOC2Type2 Certificate                                      | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Certificate%20of%20completion%20SOC%202%20TYPE%20II%20%20AINOMO.pdf) |
+|  GDPR Certificate                                           | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/GDPR%20Certificate%20Ainomo.pdf) |
+|  Certik Audit                                               | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Certik%20Ainomo%20Update.pdf) |
+|  Coinfabrick Audit                                          | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/CoinFabrik%20Ainomo%20Audit.pdf) |
+|  Fairyproof  Audit                                          | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Fairyproof%20Ainomo%20Audit.pdf) |
+|  Hacken Audit                                               | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Hacken%20Ainomo%20SC%20Audit%20Report.pdf) |
+|  Least Authority Audit                                      | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Least%20Authority%20AINOMO%20Protocol%20Smart%20Contracts%20Final%20Audit%20Report.pdf) |
+|  Mixbytes Audit                                             | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/MixBytes%20Ainomo%20Protocol%20Security%20Audit%20Report.pdf) |
+|  Quantstamp Audit                                           | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Quantstamp%20Ainomo%20Protocol%20Audit.pdf) |
+|  WhitePaper                                                 | [Link](https://github.com/ainomodatalab) |
+|  Customer Agreement Ainomo                                                 | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Customer%20Agreement%20Ainomo.pdf) |
+|  Terms of Use                                               | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Terms%20of%20Use.pdf) |
+|  Ptivacy Policy                                             | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Privacy%20Policy.pdf) |
+|  Cookies Policy                                             | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Cookies%20Policy.pdf) |
+|  Data Protection                                            | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Data%20Protection.pdf) |
+|  Data Processing Addendum                                   | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Data%20Processing%20Addendum.pdf) |
+|  DMCA Policy                                                | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/DMCA%20Policy.pdf) |
+|  Ainomo Accessibility Statement                             | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Ainomo%20Accessibility%20Statement.pdf) |
