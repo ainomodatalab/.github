@@ -26,9 +26,9 @@
     </a>
   </p>
 </div>
-<p align="center">
-  The Ainomo platform provides innovative solutions for successful cryptocurrency management. The platform is based on guidelines built on the principles of artificial intelligence, providing unmatched accuracy and reliability in decision making.
-</p>
+<div align="center">
+  <img src="https://github.com/ainomodatalab/.github/blob/8a46e0809f0a49f97d0948f05ff3d4d10b1a72eb/profile/img/banner3.png" alt="banner"/>
+</div>
 <div>
   <p align="center">
     <a
