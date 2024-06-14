@@ -8,7 +8,8 @@
 
 <div>
   <p align="center">
-    <img src="https://img.shields.io/badge/AI--ARBITRAGE-EF2D5E?logo=aframe&logoColor=fff&style=flat-square" alt="A-Frame Badge">
+    <img src="https://img.shields.io/badge/AI%20ARBITRAGE-EF2D5E?logo=aframe&logoColor=fff&style=flat-square" alt="AINOMO Badge">
+    <img src="https://img.shields.io/badge/AI%20TRADING-8C4FFF?logo=amazonredshift&logoColor=fff&style=flat-square" alt="AINOMO Badge">
   </p>
   <p align="center">
     <a
