@@ -28,6 +28,8 @@
     <img src="https://img.shields.io/badge/AI%20TRADING-8C4FFF?logo=bytedance&logoColor=fff&style=for-the-badge" alt="AINOMO Badge">
     </a>
   </p>
+</div>
+<div>
   <p align="center">
     <a
     href="https://twitter.com/AinomoDataLab">
