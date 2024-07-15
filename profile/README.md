@@ -73,7 +73,6 @@
 |  Least Authority Audit                                      | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Least%20Authority%20AINOMO%20Protocol%20Smart%20Contracts%20Final%20Audit%20Report.pdf) |
 |  Mixbytes Audit                                             | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/MixBytes%20Ainomo%20Protocol%20Security%20Audit%20Report.pdf) |
 |  Quantstamp Audit                                           | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Quantstamp%20Ainomo%20Protocol%20Audit.pdf) |
-|  WhitePaper                                                 | [Link](https://github.com/ainomodatalab) |
 |  Customer Agreement Ainomo                                                 | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Customer%20Agreement%20Ainomo.pdf) |
 |  Terms of Use                                               | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Terms%20of%20Use.pdf) |
 |  Ptivacy Policy                                             | [Link](https://github.com/ainomodatalab/docs/blob/c593c114e1667e99e6ba9f0264e89b33cde2dddb/Privacy%20Policy.pdf) |
