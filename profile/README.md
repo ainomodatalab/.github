@@ -42,8 +42,8 @@
     <a href="https://youtube.com/@AinomoDataLab">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
-        <a href="https://www.reddit.com/user/AINOMO/">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=simkl&logoColor=white" />
+        <a href="https://t.me/ainomodatalab_support">
+        <img src="https://img.shields.io/badge/AI%20TRADING-8C4FFF?logo=simkl&logoColor=FB6022&style=for-the-badge" alt="AINOMO Badge"" />
     </a>
   </p>
 </div>
