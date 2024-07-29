@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
         <a href="https://www.reddit.com/user/AINOMO/">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=simkl&logoColor=white" />
     </a>
   </p>
 </div>
