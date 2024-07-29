@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
         <a href="https://t.me/ainomodatalab_support">
-        <img src="https://img.shields.io/badge/SUPPORT-#FB6022?logo=simkl&logoColor=FFF&style=for-the-badge" alt="AINOMO Badge"" />
+        <img src="https://img.shields.io/badge/SUPPORT-FB6022?logo=simkl&logoColor=fff&style=for-the-badge" alt="AINOMO Badge"" />
     </a>
   </p>
 </div>
